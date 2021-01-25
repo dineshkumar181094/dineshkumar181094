@@ -1,0 +1,181 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output. 
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Dinesh Kumar
+    tagline: DevOps Engineer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: dineshkumar181094@gmail.com
+    phone: +917045191048
+    website: www.kubeopsify #do not add http://
+    linkedin: dinesh-kumar-495134141
+    github: dineshkumar181094
+    gitlab:
+    bitbucket:
+    twitter:
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+
+    languages:
+      - idiom: Hindi
+        level: Native
+
+      - idiom: English
+        level: Professional
+
+    interests:
+      - item: Climbing
+        link:
+
+      - item: Snowboarding
+        link:
+
+      - item: Cooking
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      AWS Certified Solutions Architect Associate, and DevOps Engineer
+      with 4 years of technical experience in building and deploying
+      cloud-native applications.
+
+
+education:
+    - degree: Bachelor's Degree
+      university: Lovely Professional University
+      time: 2012 - 2016
+      details: |
+        Studied Electrical and Electronics Engineer
+experiences:
+    - role: DevOps (SDE II)
+      time: 2021 - Present
+      company: Hotstar
+      details: |
+        Joined hotstar on jan 4th
+
+    - role: DevOps (Senior Software Engineer)
+      time: June 2019 - Dec 2020
+      company: Fynd, Mumbai
+      details: |
+        Adding features and Stablizing platform
+
+        - Deploying and maintaining production grade kubernetes clusters on AWS, that seamlessly autoscale on peak load.
+        - Building in house product for ease of developers, with backend on Nodejs and frontend on AngularJS.
+        - Managed Kubernetes charts using Helm, created deployment, service, hpa and ingress templates.
+        - Implemented encryption of secrets with sops and kubernetes secrets.
+        - Cost optimization for aws, and usage of spot instances in kubernetes and CI/CD reduced bill upto 60%.
+        - Implemented CI/CD on gitlab using spot instances and used ECR as container registory.
+        - Architecting monitoring system with prometheus, prometheus alert manager, grafana, pagerduty.
+        - Exposer to event driver architecture and serverless computing.
+        - Implemented thanos in organisation for log term metrics storage and global view of "A responsive website template designed to help web developers/designers market their services.
+        - Implemented AWS WAF firewall.
+
+    - role: Cloud Engineer
+      time: Jan 2017 - March 2019
+      company: Capgemini, Mumbai
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+        - Designed and Setup infrastructure on AWS public cloud.
+        - Automated infrastructure using Terraform and Ansible, and built ami with packer compose.
+        - Good understanding of routing and switching.
+        - Fully automated Production grade mongoDatabases setup using terraform and configuration management with ansible on aws cloud.
+        - Developed WebApplication for automated backup solution of networking devices and create workflows.
+        - Understanding of Data structures and algorithms and their implementation with python language.
+        - Built docker images and docker file.
+        - python scripting for automating tasks and measuring system performance.
+        - Full network design with best security practices and design patterns.
+
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Certification
+    intro: |
+      
+
+    papers:
+      - title: AWS
+        authors: AWS
+        conference: "AWS CERTIFIED SOLUTION ASSOSICATE , 2019"
+
+      - title: Terraform
+        authors: Terraform
+        conference: "HashiCorp Certified: Terraform Associate, 2021"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Kubernetes
+        level: 70%
+
+      - name: Python
+        level: 80%
+
+      - name: Golang
+        level: 50%
+
+      - name: Terraform and Ansible
+        level: 90%
+
+      - name: AWS
+        level: 90%
+
+      - name: helm
+        level: 70%
+
+      - name: ELK stack
+        level: 70%
+
+      - name: Promethues and Grafana
+        level: 70%
+
+      - name: Linux
+        level: 70%
+
+      - name: networking
+        level: 90%
+
+
+
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="" target="_blank" rel="nofollow">Dinesh Kumar</a>
