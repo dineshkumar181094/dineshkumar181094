@@ -77,7 +77,7 @@ experiences:
       time: June 2019 - Present
       company: Fynd, Mumbai
       details: |
-        Adding features and Stablizing platform
+        Adding features and Stabilizing platform.
 
         - Deploying and maintaining production grade kubernetes clusters on AWS, that seamlessly autoscale on peak load.
         - Building in house product for ease of developers, with backend on Nodejs and frontend on AngularJS.
