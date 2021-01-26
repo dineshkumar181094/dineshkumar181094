@@ -31,13 +31,25 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: DevOps
         link:
 
-      - item: Snowboarding
+      - item: Reading Books
         link:
 
-      - item: Cooking
+      - item: Programming
+        link:
+
+      - item: Cloud Computing
+        link:
+
+      - item: Computer science
+        link:
+
+      - item: Disaster Recovery
+        link:
+
+      - item: Research and Development
         link:
 
 career-profile:
@@ -55,14 +67,14 @@ education:
       details: |
         Studied Electrical and Electronics Engineer
 experiences:
-    - role: DevOps (SDE II)
-      time: 2021 - Present
-      company: Hotstar
-      details: |
-        Joined hotstar on jan 4th
+    # - role: DevOps (SDE II)
+    #   time: 2021 - Present
+    #   company: Hotstar
+    #   details: |
+    #     Joined hotstar on jan 4th
 
     - role: DevOps (Senior Software Engineer)
-      time: June 2019 - Dec 2020
+      time: June 2019 - Present
       company: Fynd, Mumbai
       details: |
         Adding features and Stablizing platform
@@ -82,11 +94,7 @@ experiences:
       time: Jan 2017 - March 2019
       company: Capgemini, Mumbai
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Deploying application on aws cloud
 
         - Designed and Setup infrastructure on AWS public cloud.
         - Automated infrastructure using Terraform and Ansible, and built ami with packer compose.
@@ -98,44 +106,43 @@ experiences:
         - python scripting for automating tasks and measuring system performance.
         - Full network design with best security practices and design patterns.
 
-projects:
-    title: Projects
-    intro: >
-      Building Kubernetes
+# projects:
+#     title: Projects
+#     intro: >
+#       Building Kubernetes
 
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+#       - title: DevStudio
+#         link: "#"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Certification
     intro: |
-      
 
     papers:
       - title: AWS
-        authors: AWS
+        authors: https://www.youracclaim.com/badges/09f5e868-5901-4a05-85c9-b30312335d7d
         conference: "AWS CERTIFIED SOLUTION ASSOSICATE , 2019"
 
       - title: Terraform
-        authors: Terraform
+        authors: https://www.youracclaim.com/badges/2f9666b4-864f-4325-9971-c3983b2e2df6
         conference: "HashiCorp Certified: Terraform Associate, 2021"
 
 skills:
@@ -151,13 +158,16 @@ skills:
       - name: Golang
         level: 50%
 
+      - name: Git github
+        level: 80%
+
       - name: Terraform and Ansible
         level: 90%
 
       - name: AWS
         level: 90%
 
-      - name: helm
+      - name: Helm
         level: 70%
 
       - name: ELK stack
@@ -169,7 +179,7 @@ skills:
       - name: Linux
         level: 70%
 
-      - name: networking
+      - name: Networking
         level: 90%
 
 
